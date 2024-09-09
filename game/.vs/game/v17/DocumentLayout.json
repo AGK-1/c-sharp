@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96230754-675B-4575-B52C-137CA5D1BDA8}|game\\game.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96230754-675B-4575-B52C-137CA5D1BDA8}|game\\game.csproj|solutionrelative:game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|game||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96230754-675B-4575-B52C-137CA5D1BDA8}|game\\game.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\game\\game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96230754-675B-4575-B52C-137CA5D1BDA8}|game\\game.csproj|solutionrelative:game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96230754-675B-4575-B52C-137CA5D1BDA8}|game\\game.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\game\\game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{96230754-675B-4575-B52C-137CA5D1BDA8}|game\\game.csproj|solutionrelative:game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\Form1.cs",
+              "RelativeDocumentMoniker": "game\\Form1.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\Form1.cs",
+              "RelativeToolTip": "game\\Form1.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAhwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:17:36.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\game.csproj",
+              "RelativeDocumentMoniker": "game\\game.csproj",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\game.csproj",
+              "RelativeToolTip": "game\\game.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-17T15:30:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\Form1.cs",
+              "RelativeDocumentMoniker": "game\\Form1.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\game\\game\\Form1.cs [Design]",
+              "RelativeToolTip": "game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:11:19.662Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

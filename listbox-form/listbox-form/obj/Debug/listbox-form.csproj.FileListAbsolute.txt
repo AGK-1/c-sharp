@@ -1,0 +1,11 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\bin\Debug\listbox-form.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\bin\Debug\listbox-form.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\bin\Debug\listbox-form.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox-form.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox_form.Form1.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox_form.Properties.Resources.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox-form.csproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox-form.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox-form.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox-form.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\listbox-form\listbox-form\obj\Debug\listbox_form.Form2.resources

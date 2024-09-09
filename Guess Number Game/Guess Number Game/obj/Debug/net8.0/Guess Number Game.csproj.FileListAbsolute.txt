@@ -1,0 +1,15 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\bin\Debug\net8.0\Guess Number Game.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\bin\Debug\net8.0\Guess Number Game.deps.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\bin\Debug\net8.0\Guess Number Game.runtimeconfig.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\bin\Debug\net8.0\Guess Number Game.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\bin\Debug\net8.0\Guess Number Game.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.sourcelink.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\refint\Guess Number Game.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\Guess Number Game.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Guess Number Game\Guess Number Game\obj\Debug\net8.0\ref\Guess Number Game.dll

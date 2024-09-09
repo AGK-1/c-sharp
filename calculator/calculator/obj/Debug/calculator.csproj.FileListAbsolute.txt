@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator\calculator\obj\Debug\calculator.pdb

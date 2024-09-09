@@ -1,0 +1,17 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\bin\Debug\net8.0-windows\form_calc.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\bin\Debug\net8.0-windows\form_calc.deps.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\bin\Debug\net8.0-windows\form_calc.runtimeconfig.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\bin\Debug\net8.0-windows\form_calc.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\bin\Debug\net8.0-windows\form_calc.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.Form1.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.csproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.sourcelink.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\refint\form_calc.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\form_calc.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\form_calc\form_calc\obj\Debug\net8.0-windows\ref\form_calc.dll

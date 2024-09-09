@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\bin\Debug\@object.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\bin\Debug\@object.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\bin\Debug\@object.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\obj\Debug\object.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\obj\Debug\object.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\obj\Debug\@object.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\object\object\obj\Debug\@object.pdb

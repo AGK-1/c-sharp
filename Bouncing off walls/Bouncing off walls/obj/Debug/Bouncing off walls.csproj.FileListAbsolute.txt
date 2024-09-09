@@ -1,0 +1,10 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\bin\Debug\Bouncing off walls.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\bin\Debug\Bouncing off walls.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\bin\Debug\Bouncing off walls.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing off walls.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing_off_walls.Form1.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing_off_walls.Properties.Resources.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing off walls.csproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing off walls.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing off walls.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Bouncing off walls\Bouncing off walls\obj\Debug\Bouncing off walls.pdb

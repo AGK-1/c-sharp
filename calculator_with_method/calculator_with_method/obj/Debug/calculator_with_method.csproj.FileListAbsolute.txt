@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\bin\Debug\calculator_with_method.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\bin\Debug\calculator_with_method.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\bin\Debug\calculator_with_method.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\obj\Debug\calculator_with_method.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\obj\Debug\calculator_with_method.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\obj\Debug\calculator_with_method.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\calculator_with_method\calculator_with_method\obj\Debug\calculator_with_method.pdb

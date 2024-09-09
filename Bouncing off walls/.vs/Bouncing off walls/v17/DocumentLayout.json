@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Bouncing off walls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{593AAF49-D435-4B3A-8554-97992558F5D6}|Bouncing off walls\\Bouncing off walls.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\bouncing off walls\\bouncing off walls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593AAF49-D435-4B3A-8554-97992558F5D6}|Bouncing off walls\\Bouncing off walls.csproj|solutionrelative:bouncing off walls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593AAF49-D435-4B3A-8554-97992558F5D6}|Bouncing off walls\\Bouncing off walls.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\bouncing off walls\\bouncing off walls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{593AAF49-D435-4B3A-8554-97992558F5D6}|Bouncing off walls\\Bouncing off walls.csproj|solutionrelative:bouncing off walls\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Bouncing off walls\\Bouncing off walls\\Form1.cs",
+              "RelativeDocumentMoniker": "Bouncing off walls\\Form1.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Bouncing off walls\\Bouncing off walls\\Form1.cs",
+              "RelativeToolTip": "Bouncing off walls\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:29:53.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Bouncing off walls\\Bouncing off walls\\Form1.cs",
+              "RelativeDocumentMoniker": "Bouncing off walls\\Form1.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Bouncing off walls\\Bouncing off walls\\Form1.cs [Design]",
+              "RelativeToolTip": "Bouncing off walls\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:28:12.521Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

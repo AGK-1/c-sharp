@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\bin\Debug\ref_and_ value.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\bin\Debug\ref_and_ value.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\bin\Debug\ref_and_ value.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\obj\Debug\ref_and_ value.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\obj\Debug\ref_and_ value.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\obj\Debug\ref_and_ value.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\ref_and_ value\ref_and_ value\obj\Debug\ref_and_ value.pdb

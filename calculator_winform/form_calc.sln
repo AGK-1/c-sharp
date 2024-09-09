@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form_calc", "form_calc\form_calc.csproj", "{AF7B6DAB-094C-4973-B6DB-D9BB7D74D841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7B6DAB-094C-4973-B6DB-D9BB7D74D841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7B6DAB-094C-4973-B6DB-D9BB7D74D841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7B6DAB-094C-4973-B6DB-D9BB7D74D841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7B6DAB-094C-4973-B6DB-D9BB7D74D841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EF91B3-F8A6-4FDD-91CC-CE2A160FD53B}
+	EndGlobalSection
+EndGlobal

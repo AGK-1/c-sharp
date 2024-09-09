@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\bin\Debug\memory_game.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\bin\Debug\memory_game.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\bin\Debug\memory_game.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\obj\Debug\memory_game.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\obj\Debug\memory_game.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\obj\Debug\memory_game.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\memory_game\memory_game\obj\Debug\memory_game.pdb

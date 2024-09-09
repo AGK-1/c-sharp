@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\calculator_with_method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FE7C89-109C-4CBD-8500-B5F52EA9476F}|calculator_with_method\\calculator_with_method.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\calculator_with_method\\calculator_with_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FE7C89-109C-4CBD-8500-B5F52EA9476F}|calculator_with_method\\calculator_with_method.csproj|solutionrelative:calculator_with_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\calculator_with_method\\calculator_with_method\\Program.cs",
+              "RelativeDocumentMoniker": "calculator_with_method\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\calculator_with_method\\calculator_with_method\\Program.cs",
+              "RelativeToolTip": "calculator_with_method\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T22:02:36.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

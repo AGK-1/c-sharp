@@ -1,0 +1,10 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.Form1.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\bin\Debug\game.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\bin\Debug\game.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\bin\Debug\game.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\game\game\obj\Debug\game.pdb
