@@ -1,0 +1,14 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\bin\Debug\net7.0\GetDataFromJson.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\bin\Debug\net7.0\GetDataFromJson.deps.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\bin\Debug\net7.0\GetDataFromJson.runtimeconfig.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\bin\Debug\net7.0\GetDataFromJson.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\bin\Debug\net7.0\GetDataFromJson.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\refint\GetDataFromJson.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\GetDataFromJson.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\GetDataFromJson\GetDataFromJson\obj\Debug\net7.0\ref\GetDataFromJson.dll
