@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EDC340-E222-41DD-A521-401AD33CA822}|Quiz\\Quiz.csproj|c:\\users\\wikto\\onedrive\\desktop\\lessone\\c-charpok\\quiz\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EDC340-E222-41DD-A521-401AD33CA822}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EDC340-E222-41DD-A521-401AD33CA822}|Quiz\\Quiz.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\quiz\\question_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EDC340-E222-41DD-A521-401AD33CA822}|Quiz\\Quiz.csproj|solutionrelative:quiz\\question_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EDC340-E222-41DD-A521-401AD33CA822}|Quiz\\Quiz.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\quiz\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EDC340-E222-41DD-A521-401AD33CA822}|Quiz\\Quiz.csproj|solutionrelative:quiz\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\Quiz\\QuestionList.cs",
+              "RelativeDocumentMoniker": "Quiz\\QuestionList.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\Quiz\\QuestionList.cs",
+              "RelativeToolTip": "Quiz\\QuestionList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:19:34.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question_model.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\Quiz\\Question_model.cs",
+              "RelativeDocumentMoniker": "Quiz\\Question_model.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\Quiz\\Question_model.cs",
+              "RelativeToolTip": "Quiz\\Question_model.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:58:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\Quiz\\Quiz\\Program.cs",
+              "RelativeToolTip": "Quiz\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:30:47.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

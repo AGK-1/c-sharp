@@ -1,0 +1,14 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\bin\Debug\net7.0\Quiz.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\bin\Debug\net7.0\Quiz.deps.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\bin\Debug\net7.0\Quiz.runtimeconfig.json
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\bin\Debug\net7.0\Quiz.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\bin\Debug\net7.0\Quiz.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\refint\Quiz.dll
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\Quiz.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Quiz\Quiz\obj\Debug\net7.0\ref\Quiz.dll
