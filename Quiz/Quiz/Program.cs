@@ -16,8 +16,9 @@ class Program
 
 		// Переменная для подсчета правильных ответов
 		int score = 0;
-		//quiz[1].DisplayQuestion();
-		for (int i = 0; i < 3; i++)
+
+		int questsc = 3;// quiz.Count; // Количество вопросов, которые мы хотим задать
+		for (int i = 0; i < questsc; i++)
 		{
 			// Случайный выбор вопроса из списка
 			int randomIndex = random.Next(quiz.Count);
