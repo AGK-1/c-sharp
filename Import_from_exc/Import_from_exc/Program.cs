@@ -6,8 +6,8 @@ class Program
 {
 	static void Main()
 	{
-		Console.WriteLine("Please paste the path excel file");
-		var path = Console.ReadLine();
+		Console.WriteLine("Please paste the path excel file here");
+		var path = Console.ReadLine();// You must paste path
 		// Specify the path to your Excel file
 		var filePath = @$"{path}";
 
@@ -30,7 +30,7 @@ class Program
 			{
 				for (int j = 1; j <= columns; j++)
 				{
-					// Get the cell value
+					// Get the cell value 
 					var cellValue = worksheet.Cells[i, j].Value;
 					Console.Write($"{cellValue}\t");
 				}
